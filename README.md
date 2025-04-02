@@ -1,1 +1,1 @@
-# fraction
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E39D7&width=435&lines=%D1%81%D0%B0%D1%83%D0%BD%D0%B4%D0%B2%D0%B5%D0%B9%D0%B2+%D0%B2%D1%8B%D1%81%D1%88%D0%B8%D0%B9%2C%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D0%BE%D1%82%D1%8B+%D0%BD%D0%B8%D0%B7%D1%88%D0%B8%D0%B5)](https://git.io/typing-svg)
